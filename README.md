@@ -1,10 +1,7 @@
 <div align="center">
 
-### 🎓 Computer Science Student
-### 📱 Java Developer
-### 💻 Python • Git • SQL
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Android+Developer;Java+Developer;Always+Learning+New+Things&center=true&width=500&height=50)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Achilleas+Mavromatis;Computer+Science+Student;University+Of+Macedonia;Java+Python+Developer;&center=true&width=500&height=50)](https://git.io/typing-svg)
 
 </div>
 
