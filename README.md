@@ -1,7 +1,7 @@
 <div align="center">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Achilleas+Mavromatis;Computer+Science+Student;University+Of+Macedonia;Java+Python+Developer;&center=true&width=500&height=50)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Achilleas+Mavromatis;&center=true&width=500&height=50)](https://git.io/typing-svg)
 
 </div>
 
