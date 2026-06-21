@@ -1,10 +1,8 @@
 <div align="center">
 
-# Hi 👋, I'm Achilleas Mavromatis
-
 ### 🎓 Computer Science Student
 ### 📱 Android Developer
-### 💻 Java • Kotlin • Git • SQL
+### 💻 Java • Python • Git • SQL
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Android+Developer;Java+Developer;Always+Learning+New+Things&center=true&width=500&height=50)](https://git.io/typing-svg)
 
