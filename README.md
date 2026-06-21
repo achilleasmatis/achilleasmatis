@@ -1,8 +1,8 @@
 <div align="center">
 
 ### 🎓 Computer Science Student
-### 📱 Android Developer
-### 💻 Java • Python • Git • SQL
+### 📱 Java Developer
+### 💻 Python • Git • SQL
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Android+Developer;Java+Developer;Always+Learning+New+Things&center=true&width=500&height=50)](https://git.io/typing-svg)
 
@@ -36,9 +36,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=achilleasmatis&show_icons=true&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achilleasmatis&layout=compact&theme=tokyonight" />
 
 </div>
 
