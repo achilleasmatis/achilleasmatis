@@ -29,27 +29,6 @@
 
 ---
 
-##  GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=achilleasmatis&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achilleasmatis&layout=compact&theme=tokyonight" />
-
-</div>
-
----
-
-##  GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=achilleasmatis&theme=tokyonight" />
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
@@ -57,15 +36,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=achilleasmatis&theme=tokyonight&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 
 <div align="center">
